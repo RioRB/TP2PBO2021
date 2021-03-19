@@ -1,0 +1,24 @@
+Nama 	: Rio Ramadhan Bahtiar
+NIM	: 1905741
+
+Saya Rio Ramadhan Bahtiar mengerjakan evaluasi TP 2 DPBO dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak 
+melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
+
+Kesulitan :
+- Mencari cara untuk mengkoneksikan ke database
+- Mendesain Layout Multiple Panel dalam Jframe (soalnya layouting awalnya berantakan)
+- Memasukkan data dari form ke database
+
+Hal Baru :
+- Belajar mengoperasikan IDE Netbeans
+- Koneksi database MySQL dengan library
+- Mendesain Layout Panel
+
+Fitur :
+- Halaman Welcome pada awalan
+- Menu Form untuk mengisikan data ke database
+- Menu Tabel untuk menampilkan databse
+- Menambahkan foto pada menu Info
+
